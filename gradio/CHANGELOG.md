@@ -1,5 +1,16 @@
 # gradio
 
+## 5.0.3
+
+### Features
+
+- [#9662](https://github.com/gradio-app/gradio/pull/9662) [`b1c5a68`](https://github.com/gradio-app/gradio/commit/b1c5a68f9003b77b5c70b641100f7db339295180) - Tweak message shown in Colab notebooks.  Thanks @abidlabs!
+- [#9656](https://github.com/gradio-app/gradio/pull/9656) [`8f6626c`](https://github.com/gradio-app/gradio/commit/8f6626cd0e5a0c24e1966fbc3e28185c18a04b61) - Fix streaming Audio/Video Output.  Thanks @freddyaboulton!
+
+### Fixes
+
+- [#9676](https://github.com/gradio-app/gradio/pull/9676) [`fd0264f`](https://github.com/gradio-app/gradio/commit/fd0264f3358ef848690eceacb75481212dceecf0) - Fix Audio in Chatbot bug.  Thanks @freddyaboulton!
+
 ## 5.0.2
 
 ### Fixes

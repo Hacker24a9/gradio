@@ -1,5 +1,11 @@
 # @gradio/chatbot
 
+## 0.14.3
+
+### Fixes
+
+- [#9676](https://github.com/gradio-app/gradio/pull/9676) [`fd0264f`](https://github.com/gradio-app/gradio/commit/fd0264f3358ef848690eceacb75481212dceecf0) - Fix Audio in Chatbot bug.  Thanks @freddyaboulton!
+
 ## 0.14.2
 
 ### Dependency updates
